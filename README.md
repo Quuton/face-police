@@ -7,7 +7,7 @@ Currently it can detect for the following classes:
 3. Correct mask fit
 
 ## Installation and Running
-Together with the app should be the model file in **output/**.
+Together with the app should be the model file in the root directory.
 
 The app can be run almost out of the box by first installing the python dependencies with pip.
 
@@ -45,4 +45,4 @@ Some paramters regarding training can also be controlled in the config file.
 
 Once training has completed, the model will be in a directory similar to *"runs/train"*.
 
-Simply bring it over into the output folder.
+Simply bring it over into the root of the project.
